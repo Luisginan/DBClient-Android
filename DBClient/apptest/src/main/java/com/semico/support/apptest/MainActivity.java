@@ -15,8 +15,8 @@ import android.view.MenuItem;
 
 import com.semico.support.dbclient.contracts.Contract;
 import com.semico.support.dbclient.DbClient;
-import com.semico.support.dbclient.interfaces.IContractManager;
-import com.semico.support.dbclient.interfaces.IDbClient;
+import com.semico.support.dbclient.implementor.IContractManager;
+import com.semico.support.dbclient.implementor.IDbClient;
 
 import java.util.List;
 

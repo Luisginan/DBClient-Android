@@ -4,7 +4,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import com.semico.support.dbclient.contracts.Contract;
-import com.semico.support.dbclient.interfaces.IContractManager;
+import com.semico.support.dbclient.implementor.IContractManager;
 
 import java.util.List;
 

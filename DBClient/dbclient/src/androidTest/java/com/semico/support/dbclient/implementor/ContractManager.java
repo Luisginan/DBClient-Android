@@ -1,8 +1,10 @@
-package com.semico.support.dbclient;
+package com.semico.support.dbclient.implementor;
 
 
+import com.semico.support.dbclient.contracts.UserContract;
 import com.semico.support.dbclient.contracts.Contract;
-import com.semico.support.dbclient.interfaces.IContractManager;
+import com.semico.support.dbclient.contracts.ProductContract;
+import com.semico.support.dbclient.contracts.ProductDetailContract;
 
 import java.util.ArrayList;
 import java.util.List;

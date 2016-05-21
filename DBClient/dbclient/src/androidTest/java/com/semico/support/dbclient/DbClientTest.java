@@ -3,7 +3,10 @@ package com.semico.support.dbclient;
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
-import com.semico.support.dbclient.interfaces.IContractManager;
+import com.semico.support.dbclient.datas.ProductDetail;
+import com.semico.support.dbclient.datas.User;
+import com.semico.support.dbclient.implementor.ContractManager;
+import com.semico.support.dbclient.implementor.IContractManager;
 
 import junit.framework.Assert;
 

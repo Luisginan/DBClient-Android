@@ -1,4 +1,4 @@
-package com.semico.support.dbclient;
+package com.semico.support.dbclient.contracts;
 
 
 import com.semico.support.dbclient.contracts.Contract;

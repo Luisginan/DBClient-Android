@@ -1,4 +1,4 @@
-package com.semico.support.dbclient.interfaces;
+package com.semico.support.dbclient.implementor;
 
 import android.database.Cursor;
 

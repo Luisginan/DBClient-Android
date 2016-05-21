@@ -1,9 +1,10 @@
-package com.semico.support.dbclient;
+package com.semico.support.dbclient.datas;
 
 
 import android.graphics.Bitmap;
 
 import com.semico.support.dbclient.contracts.Contract;
+import com.semico.support.dbclient.contracts.ProductContract;
 import com.semico.support.dbclient.datas.Data;
 
 import java.io.Serializable;

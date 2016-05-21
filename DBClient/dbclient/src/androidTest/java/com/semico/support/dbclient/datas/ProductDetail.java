@@ -1,6 +1,7 @@
-package com.semico.support.dbclient;
+package com.semico.support.dbclient.datas;
 
 import com.semico.support.dbclient.contracts.Contract;
+import com.semico.support.dbclient.contracts.ProductDetailContract;
 import com.semico.support.dbclient.datas.Data;
 
 import java.io.Serializable;

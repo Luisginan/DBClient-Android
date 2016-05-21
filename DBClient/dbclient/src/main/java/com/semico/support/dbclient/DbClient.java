@@ -6,8 +6,8 @@ import android.database.sqlite.SQLiteDatabase;
 
 import com.semico.support.dbclient.contracts.Contract;
 import com.semico.support.dbclient.datas.Data;
-import com.semico.support.dbclient.interfaces.IContractManager;
-import com.semico.support.dbclient.interfaces.IDbClient;
+import com.semico.support.dbclient.implementor.IContractManager;
+import com.semico.support.dbclient.implementor.IDbClient;
 
 import java.lang.reflect.Field;
 import java.text.ParseException;
