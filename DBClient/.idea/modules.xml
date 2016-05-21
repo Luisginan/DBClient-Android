@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBClient.iml" filepath="$PROJECT_DIR$/DBClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptest/apptest.iml" filepath="$PROJECT_DIR$/apptest/apptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbclient/dbclient.iml" filepath="$PROJECT_DIR$/dbclient/dbclient.iml" />
+    </modules>
+  </component>
+</project>
