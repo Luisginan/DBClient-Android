@@ -1,6 +1,6 @@
 {
   "name": "Dbclient-android",
   "tagline": "",
-  "body": "# DBClient-Android\r\n\r\nHandle multiple nested transaction and automatic lock SQlLite , so you can multiple thread concurently with automatic queuing without worry about performance and database corrupted.\r\n",
+  "body": "# DBClient-Android\r\n\r\nHandle auto mapping to class model likely ORM, multiple nested transaction and automatic lock SqlLite , so you can multiple thread concurently with automatic queuing without worry about performance and database corrupted.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
